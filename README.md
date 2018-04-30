@@ -1,3 +1,9 @@
+ARCHIVED - DO NOT USE
+======
+So far as we (in the ETG team) can tell there is no advantage to keeping this forked version.  Please let us know if we were wrong!
+
+Unless you have a compelling reason (please do tell us - other people might also be in your situation) please use the original version of Haikro
+
 haikro
 ======
 
